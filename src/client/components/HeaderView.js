@@ -10,7 +10,7 @@ const HeaderView = () =>
   <AppBar title='Background Geolocation Console' leftIcon='menu'>
     <Navigation type='horizontal'>
       <Link href='http://transistorsoft.com' label=''>
-//         <img className={Styles.logo} src={logo} />
+        <img className={Styles.logo} src={logo} />
       </Link>
     </Navigation>
   </AppBar>;
